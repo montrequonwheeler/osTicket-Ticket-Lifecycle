@@ -3,7 +3,10 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This walkthrough outlines the post-install configuration of the open-source help desk ticketing system osTicket. In the last lab we installed all the prerequisites and installed as well as config everything for osTicket. Once again in case you took a break, open azure portal and recopy the ip address becuase it might’ve changed if you closed or shutdown the VM.
+There will also be a video demonstration of this portion of the project in it's entirety in the YouTube link below in case of any hiccups along the process. For the short videos provided, you can simply click the video and it should open in a new tab for better guidance.
+
+During Sev-A, Jane will not be able to see any newly created tickets until changes are made to her extended access. John will also have issues but his are being unable to close tickets. Both issues will be demonostrated on how to resolve in the videos provided.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -33,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins. Jane permissions will be edited again to allow her to see the new tickets created.
 </p>
 <br />
 
@@ -41,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]. We will assign Sev-B John and later edit his permissions to be able to close tickets.
 </p>
 <br />
 
@@ -49,6 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow].
 </p>
 <br />

@@ -36,6 +36,14 @@ During Sev-A, Jane will not be able to see any newly created tickets until chang
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Here we'll create all the tickets to practice on.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins. Jane permissions will be edited again to allow her to see the new tickets created.
 </p>
 <br />

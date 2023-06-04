@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This walkthrough outlines the post-install configuration of the open-source help desk ticketing system osTicket. In the last lab we installed all the prerequisites and installed as well as config everything for osTicket. Once again in case you took a break, open azure portal and recopy the ip address becuase it might’ve changed if you closed or shutdown the VM.
+This walkthrough outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+In the last lab we installed all the prerequisites and installed as well as config everything for osTicket. Once again in case you took a break, open azure portal and recopy the ip address becuase it might’ve changed if you closed or shutdown the VM.
 There will also be a video demonstration of this portion of the project in it's entirety in the YouTube link below in case of any hiccups along the process. For the short videos provided, you can simply click the video and it should open in a new tab for better guidance.
 During Sev-A, Jane will not be able to see any newly created tickets until changes are made to her extended access. John will also have issues but his are being unable to close tickets. Both issues will be demonostrated on how to resolve in the videos provided.<br />
 

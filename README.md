@@ -16,7 +16,7 @@ During Sev-A, Jane will not be able to see any newly created tickets until chang
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (Microsoft Remote Access in the App Store for MAC users)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>

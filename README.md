@@ -50,12 +50,8 @@ Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins.
 <br />
 
 <p>
-<img src="
-
-https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/3f1cee01-6695-47eb-8a87-d21a9e8354f3
-
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/0dad56b4-4cbc-43c8-86ec-5a286995f293" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/82e68c39-4595-4fa3-9db2-2ed6ddb1003a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]. We will assign Sev-B John and later edit his permissions to be able to close tickets.

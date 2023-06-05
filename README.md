@@ -33,15 +33,16 @@ During Sev-A, Jane will not be able to see any newly created tickets until chang
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/05d095d7-c5de-4c00-be85-cac427ffab3c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we'll create all the tickets to practice on.
+Here we'll create the tickets to practice on.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/9306a724-b6c4-4e74-b00a-0a77b0c31239" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/c1f3a887-6d44-4ed5-a63a-e5235a376bd4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins. Jane permissions will be edited again to allow her to see the new tickets created.
@@ -57,9 +58,17 @@ Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]. We wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/efa812e6-6bef-4db8-8f52-8989c59b68a1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow].
+Sev-C (2 hours, business hours) [CFO’s laptop seems a bit slow].
+</p>
+<br />
+
+<p>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/e1e67d67-f6bd-4c86-a0f6-5401bac5bf70"/>
+</p>
+<p>
+Now after practing in the lab remember to clean up to avoid any additional costs.
 </p>
 <br />

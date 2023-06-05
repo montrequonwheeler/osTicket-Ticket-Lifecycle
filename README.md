@@ -42,7 +42,7 @@ Here we'll create the tickets to practice on.
 
 <p>
 <img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/9306a724-b6c4-4e74-b00a-0a77b0c31239" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/c1f3a887-6d44-4ed5-a63a-e5235a376bd4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/ec937f75-af2b-47ca-9d8c-5300e1606fde" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins. Jane permissions will be edited again to allow her to see the new tickets created.
@@ -50,7 +50,12 @@ Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="
+
+https://github.com/montrequonwheeler/ticket-lifecycle/assets/127397594/3f1cee01-6695-47eb-8a87-d21a9e8354f3
+
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]. We will assign Sev-B John and later edit his permissions to be able to close tickets.

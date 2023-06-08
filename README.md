@@ -11,7 +11,7 @@ During Sev-A, Jane will not be able to see any newly created tickets until chang
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/a0vPNqAYFB4)
 
 <h2>Environments and Technologies Used</h2>
 
